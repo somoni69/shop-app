@@ -39,7 +39,7 @@ lib/
 
 
 📸 Скриншоты:
-<img width="255" height="561" alt="image" src="https://github.com/user-attachments/assets/888ebe2d-8884-4ed4-9a3d-6d135b67c35d" />
-<img width="243" height="549" alt="image" src="https://github.com/user-attachments/assets/ade987c1-5469-4931-9876-6dcdc7e37744" />
-<img width="243" height="549" alt="image" src="https://github.com/user-attachments/assets/0ed6b3c5-413d-4030-b5c2-e99477d25949" />
+(<img width="255" height="561" alt="image" src="https://github.com/user-attachments/assets/888ebe2d-8884-4ed4-9a3d-6d135b67c35d" />)
+(<img width="243" height="549" alt="image" src="https://github.com/user-attachments/assets/ade987c1-5469-4931-9876-6dcdc7e37744" />)
+(<img width="243" height="549" alt="image" src="https://github.com/user-attachments/assets/0ed6b3c5-413d-4030-b5c2-e99477d25949" />)
 
