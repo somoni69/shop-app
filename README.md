@@ -23,6 +23,12 @@
 
 ---
 
+📸 Скриншоты:
+```markdown
+<img width="257" height="555" alt="image" src="https://github.com/user-attachments/assets/199fe39e-e205-4f17-98b4-6b115ac9eba3" />
+
+
+
 ## 📁 Структура проекта:
 
 ```plaintext
@@ -37,9 +43,5 @@ lib/
 ├── models/
 │   └── product.dart            # Модель товара (если есть)
 
-
-📸 Скриншоты:
-```markdown
-<img width="257" height="555" alt="image" src="https://github.com/user-attachments/assets/199fe39e-e205-4f17-98b4-6b115ac9eba3" />
 
 
