@@ -1,0 +1,29 @@
+name: shop_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.5.0 # Используем Supabase
+  provider: ^6.1.1 # Для управления состоянием
+  intl: ^0.20.2 # Для форматирования цен
+  uuid: ^4.4.0
+  image_picker: ^1.2.1
+  flutter_dotenv: ^6.0.0
+  get_it: ^9.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  mocktail: ^1.0.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env

@@ -1,0 +1,10 @@
+{
+  "imports": "./supabase/functions/import_map.json",
+  "compilerOptions": {
+    "types": [
+      "https://deno.land/x/denon/types.d.ts",
+      "./supabase/functions/payment-intent/types.d.ts",
+      "./supabase/functions/test-stripe/types.d.ts"
+    ]
+  }
+}
