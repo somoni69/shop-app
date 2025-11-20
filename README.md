@@ -19,7 +19,7 @@
 
 | Главный экран | Корзина (Offline) | История заказов | Светлая тема | Темная тема |
 |:---:|:---:|:---:|:---:|:---:|
-| ![главный экран](https://github.com/user-attachments/assets/9fd38937-2c31-402c-a4cd-301bdb6fd594) | ![корзина](https://github.com/user-attachments/assets/f021c1a8-8a8f-4619-bc75-c9b5201c93f9) | ![история заказов](https://github.com/user-attachments/assets/c099d166-57c3-4cfb-8ad8-b3b796c9e58b) | | ![светлая](https://github.com/user-attachments/assets/5ffd80b9-eeb7-4b6a-8155-05023fdf39d3) | ![темная](https://github.com/user-attachments/assets/a0de7778-63a8-4664-9d7b-bb57fb069aaf) |
+| ![главный экран](https://github.com/user-attachments/assets/9fd38937-2c31-402c-a4cd-301bdb6fd594) | ![корзина](https://github.com/user-attachments/assets/f021c1a8-8a8f-4619-bc75-c9b5201c93f9) | ![история заказов](https://github.com/user-attachments/assets/c099d166-57c3-4cfb-8ad8-b3b796c9e58b) | ![светлая](https://github.com/user-attachments/assets/5ffd80b9-eeb7-4b6a-8155-05023fdf39d3) | ![темная](https://github.com/user-attachments/assets/a0de7778-63a8-4664-9d7b-bb57fb069aaf) |
 
 ---
 
