@@ -19,7 +19,9 @@
 
 | Главный экран | Корзина (Offline) | История заказов |
 |:---:|:---:|:---:|
-| ![главный экран](https://github.com/user-attachments/assets/9fd38937-2c31-402c-a4cd-301bdb6fd594) /> | <img src="ссылка_на_скрин_2.png" width="250" /> | <img src="ссылка_на_скрин_3.png" width="250" /> |
+| ![главный экран](https://github.com/user-attachments/assets/9fd38937-2c31-402c-a4cd-301bdb6fd594) /> | ![корзина](https://github.com/user-attachments/assets/f021c1a8-8a8f-4619-bc75-c9b5201c93f9)
+ |  ![история заказов](https://github.com/user-attachments/assets/c099d166-57c3-4cfb-8ad8-b3b796c9e58b)
+|
 
 ---
 
