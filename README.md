@@ -30,3 +30,4 @@
 Для запуска тестов:
 ```bash
 flutter test# shop-app
+# shop-app
