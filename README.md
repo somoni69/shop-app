@@ -29,4 +29,4 @@
 
 Для запуска тестов:
 ```bash
-flutter test
+flutter test# shop-app
