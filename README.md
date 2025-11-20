@@ -11,7 +11,8 @@
 
 ## 📱 Демонстрация (Demo)
 
-![Demo App](ссылка_на_твою_гифку.gif)
+![Adobe Express - Screen_Recording_20251119_005011 (1)](https://github.com/user-attachments/assets/65e1fda7-673f-4c52-8cae-ff2fc47dd861)
+
 
 ---
 
