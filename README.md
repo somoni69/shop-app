@@ -19,7 +19,8 @@
 
 | Главный экран | Корзина (Offline) | История заказов |
 |:---:|:---:|:---:|
-| <img src="C:\Users\developer\Desktop\главный экран.jpg" width="250" /> | <img src="ссылка_на_скрин_2.png" width="250" /> | <img src="ссылка_на_скрин_3.png" width="250" /> |
+| <img src="![главный экран](https://github.com/user-attachments/assets/9fd38937-2c31-402c-a4cd-301bdb6fd594)
+" width="250" /> | <img src="ссылка_на_скрин_2.png" width="250" /> | <img src="ссылка_на_скрин_3.png" width="250" /> |
 
 ---
 
