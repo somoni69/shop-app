@@ -43,4 +43,5 @@
 
 В проекте реализованы Unit-тесты, покрывающие критическую логику корзины и расчета стоимости.
 
-![Test Results](ссылка_на_скриншот_тестов_с_зелеными_галочками.png)
+![Test Results](<img width="682" height="187" alt="image_2025-11-18_17-28-11" src="https://github.com/user-attachments/assets/a5014361-b14e-40bc-a053-e5caeb16fe33" />
+)
